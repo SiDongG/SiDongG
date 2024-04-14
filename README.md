@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Loading Bio ... ...
+Even though you walk through the darkest path of research, fear not, for I am with you. --mlasp 4:32
+
+Loading bio ... ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiDongG&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiDongG&layout=compact)
