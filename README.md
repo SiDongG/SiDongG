@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Even though you walk through the darkest path of research, fear not, for I am with you. --mlasp 4:32
+Even though you walk through the darkest path of research, fear not, for I am with you. --Mlasp 4:32
 
 Loading bio ... ...
 
