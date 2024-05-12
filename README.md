@@ -23,4 +23,6 @@ News: By the request of party of interest, I have taken down codes/repos related
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiDongG&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiDongG&layout=compact)
 
+(Effective May 2024: You are being watched)
+
 ![Visitor Counter (effective May 2024)](https://komarev.com/ghpvc/?username=SiDongG)
