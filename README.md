@@ -22,6 +22,6 @@ Loading bio ... ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiDongG&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiDongG&layout=compact)
 
-(Effective May 2024)
+(Effective May 15th 2024)
 
 ![Visitor Counter (effective May 2024)](https://komarev.com/ghpvc/?username=SiDongG)
